@@ -41,9 +41,7 @@ I'm **Afiq Tahir**, a Computer Science student passionate about building modern 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=afiqtahir&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afiqtahir&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" />
+<img src="https://github-readme-stats.vercel.app/api?username=afiqtahir&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" />
 
 </div>
 
