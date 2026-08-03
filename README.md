@@ -2,17 +2,6 @@
 
 <img src="./assets/banner.svg" alt="Afiq Tahir Banner" width="100%" />
 
-# Hi, I'm Afiq Tahir 👋
-
-### Web Developer • UI/UX Enthusiast • Computer Science Student
-
-<p>
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+useful+web+experiences,+one+commit+at+a+time.;Laravel+%E2%80%A2+React+%E2%80%A2+TypeScript.;Passionate+about+clean+code+and+great+user+experience.;Always+learning,+always+building."
-    alt="Typing SVG"
-  />
-</p>
-
 </div>
 
 ---
