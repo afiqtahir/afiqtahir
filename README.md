@@ -59,8 +59,7 @@ I'm **Afiq Tahir**, a Computer Science student passionate about building modern 
 
 </div>
 
-
-
+---
 
 ## Contribution Snake
 
@@ -75,6 +74,8 @@ I'm **Afiq Tahir**, a Computer Science student passionate about building modern 
 </div>
 
 ---
+
+## 💬 Dev Quote
 
 <div align="center">
 
@@ -95,11 +96,5 @@ I'm **Afiq Tahir**, a Computer Science student passionate about building modern 
 <a href="https://instagram.com/afiqtahirrr">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
-&nbsp;
-<a href="https://github.com/afiqtahir">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
 
 </p>
-
-
