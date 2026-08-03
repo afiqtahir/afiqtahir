@@ -1,29 +1,34 @@
 <div align="center">
 
-# Hi there, I'm Afiq Tahir 👋
+<img src="./assets/banner.svg" alt="Afiq Tahir Banner" width="100%" />
+
+# Hi, I'm Afiq Tahir 👋
 
 ### Web Developer • UI/UX Enthusiast • Computer Science Student
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+useful+web+experiences,+one+commit+at+a+time.;Laravel+%E2%80%A2+React+%E2%80%A2+UI%2FUX.;Always+learning,+always+improving.;Open+to+collaboration+and+new+ideas." />
+<p>
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+useful+web+experiences,+one+commit+at+a+time.;Laravel+%E2%80%A2+React+%E2%80%A2+TypeScript.;Passionate+about+clean+code+and+great+user+experience.;Always+learning,+always+building."
+    alt="Typing SVG"
+  />
+</p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I'm **Afiq Tahir**, a Computer Science student with a passion for building modern web applications and creating intuitive user experiences.
+I'm **Afiq Tahir**, a Computer Science student passionate about building modern web applications with a strong focus on clean code, maintainable architecture, and user-friendly interfaces.
 
-- 🎓 Computer Science Student
-- 💻 Interested in Web Development
-- 🎨 Passionate about UI/UX Design
-- 🌱 Currently learning TypeScript, Clean Architecture, and Docker
-- 🐧 Linux user
-- 🚀 Always improving through personal projects
+- 🌱 Currently learning **TypeScript**, **Clean Architecture**, and **Docker**
+- 💻 Building web applications with **Laravel** and **React**
+- 🎨 Interested in crafting better user experiences through thoughtful UI/UX
+- 🐧 Daily driving **Linux** as my development environment
 
 ---
 
-## 💻 Developer Workspace
+## Developer Workspace
 
 ```yaml
 OS: Linux
@@ -53,74 +58,55 @@ Tools:
 
 ---
 
-## 🚀 Current Focus
+## Current Focus
 
 - Building scalable Laravel applications
-- Developing responsive interfaces with React
-- Learning Clean Architecture
-- Improving UI/UX skills
+- Developing modern React interfaces
+- Learning software architecture and system design
 - Exploring Docker and deployment workflows
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=php,laravel,react,ts,js,tailwind,postgres,mysql,git,linux,vscode,figma,postman"/>
+<img src="https://skillicons.dev/icons?i=php,laravel,react,ts,js,tailwind,postgres,mysql,git,linux,vscode,figma,postman" />
 
-</p>
-
----
-
-## 📈 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=afiqtahiranda&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afiqtahiranda&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=afiqtahiranda&theme=github-dark&hide_border=true"/>
-
-</p>
+</div>
 
 ---
 
-## 📌 Featured Projects
+## GitHub Analytics
 
-Coming soon...
+<div align="center">
 
-- 🌐 Portfolio Website
-- 📚 Academic Projects
-- ⚙ Laravel REST API
-- ⚛ React Applications
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=afiqtahir&show_icons=true&theme=github_dark&hide_border=true" />
 
----
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afiqtahir&layout=compact&theme=github_dark&hide_border=true" />
 
-## 📫 Connect With Me
+</div>
 
-<p align="center">
+<div align="center">
 
-<a href="mailto:YOUR_EMAIL">
-Email
-</a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark&hide_border=true" />
 
-•
-
-<a href="https://instagram.com/YOUR_USERNAME">
-Instagram
-</a>
-
-</p>
+</div>
 
 ---
 
-## 💬 Developer Terminal
+## Featured Projects
+
+| Project | Description | Status |
+|---------|-------------|--------|
+| 🌐 Portfolio Website | Personal portfolio | 🚧 |
+| 📚 Academic Information System | Laravel + PostgreSQL | ✅ |
+| ⚙ Laravel REST API | RESTful backend | 🚀 |
+| 🎨 UI Components | React component library | 🚧 |
+
+---
+
+## Developer Terminal
 
 ```bash
 $ whoami
@@ -135,35 +121,21 @@ UI/UX Enthusiast
 ```
 
 ```bash
-$ cat currently-learning.txt
+$ git status
 
-TypeScript
+On branch main
 
-Clean Architecture
-
-Docker
-
-System Design
-```
-
-```bash
-$ ls projects
-
-portfolio/
-
-laravel-api/
-
-academic-project/
-
-react-dashboard/
+nothing to commit, working tree clean
 ```
 
 ---
 
-<div align="center">
+## Connect
 
-### Thanks for visiting 👋
+<p align="center">
 
-*"Building useful web experiences, one commit at a time."*
+<a href="mailto:afiqtahir2@gmail.com">Email</a>
+•
+<a href="https://instagram.com/afiqtahirrr">Instagram</a>
 
-</div>
+</p>
