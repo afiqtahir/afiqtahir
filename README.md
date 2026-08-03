@@ -61,18 +61,8 @@ I'm **Afiq Tahir**, a Computer Science student passionate about building modern 
 
 </div>
 
----
 
-## Featured Projects
 
-| Project | Description | Tech | Status |
-|---------|-------------|------|--------|
-| 🌐 Portfolio Website | Personal portfolio site | React, Tailwind | 🚧 In Progress |
-| 📚 Academic Information System | Full-stack academic management platform | Laravel, PostgreSQL | ✅ Complete |
-| ⚙ Laravel REST API | RESTful backend service | Laravel, MySQL | 🚀 Live |
-| 🎨 UI Components | Reusable React component library | React, TypeScript | 🚧 In Progress |
-
----
 
 ## Contribution Snake
 
