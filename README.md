@@ -102,10 +102,4 @@ I'm **Afiq Tahir**, a Computer Science student passionate about building modern 
 
 </p>
 
----
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=80&section=footer" width="100%" />
-
-</div>
